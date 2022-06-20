@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515324355545",
+    "project_id": "musculaction-b5d07",
+    "storage_bucket": "musculaction-b5d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515324355545:android:5b6304b78ed13b7d962fc8",
+        "android_client_info": {
+          "package_name": "com.example.musculaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515324355545-08cdd0vu4gjlll8gq3ecgg23vh0gplh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMG7FwlmQYkaKfvRejTfHeTFneRkkRdRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515324355545-08cdd0vu4gjlll8gq3ecgg23vh0gplh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
